@@ -12,6 +12,7 @@ struct CombineTestApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
+            //URLSessionTest()
         }
     }
 }

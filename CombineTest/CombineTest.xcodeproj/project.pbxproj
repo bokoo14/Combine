@@ -12,6 +12,8 @@
 		3E7AD2912AB341AD00CB23B4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E7AD2902AB341AD00CB23B4 /* Assets.xcassets */; };
 		3E7AD2942AB341AD00CB23B4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3E7AD2932AB341AD00CB23B4 /* Preview Assets.xcassets */; };
 		3E7AD29B2AB49A1100CB23B4 /* PassthroughSubjectTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7AD29A2AB49A1100CB23B4 /* PassthroughSubjectTest.swift */; };
+		3E7AD29D2AB59DA900CB23B4 /* URLSessionTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7AD29C2AB59DA900CB23B4 /* URLSessionTest.swift */; };
+		3E7AD29F2AB5CC9000CB23B4 /* ViewDrawTest.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3E7AD29E2AB5CC9000CB23B4 /* ViewDrawTest.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -21,6 +23,8 @@
 		3E7AD2902AB341AD00CB23B4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3E7AD2932AB341AD00CB23B4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		3E7AD29A2AB49A1100CB23B4 /* PassthroughSubjectTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PassthroughSubjectTest.swift; sourceTree = "<group>"; };
+		3E7AD29C2AB59DA900CB23B4 /* URLSessionTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URLSessionTest.swift; sourceTree = "<group>"; };
+		3E7AD29E2AB5CC9000CB23B4 /* ViewDrawTest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewDrawTest.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,9 +59,11 @@
 			children = (
 				3E7AD28C2AB341AC00CB23B4 /* CombineTestApp.swift */,
 				3E7AD28E2AB341AC00CB23B4 /* ContentView.swift */,
+				3E7AD29A2AB49A1100CB23B4 /* PassthroughSubjectTest.swift */,
+				3E7AD29C2AB59DA900CB23B4 /* URLSessionTest.swift */,
+				3E7AD29E2AB5CC9000CB23B4 /* ViewDrawTest.swift */,
 				3E7AD2902AB341AD00CB23B4 /* Assets.xcassets */,
 				3E7AD2922AB341AD00CB23B4 /* Preview Content */,
-				3E7AD29A2AB49A1100CB23B4 /* PassthroughSubjectTest.swift */,
 			);
 			path = CombineTest;
 			sourceTree = "<group>";
@@ -142,6 +148,8 @@
 			files = (
 				3E7AD28F2AB341AC00CB23B4 /* ContentView.swift in Sources */,
 				3E7AD29B2AB49A1100CB23B4 /* PassthroughSubjectTest.swift in Sources */,
+				3E7AD29D2AB59DA900CB23B4 /* URLSessionTest.swift in Sources */,
+				3E7AD29F2AB5CC9000CB23B4 /* ViewDrawTest.swift in Sources */,
 				3E7AD28D2AB341AC00CB23B4 /* CombineTestApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
